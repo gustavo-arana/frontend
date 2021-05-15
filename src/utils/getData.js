@@ -1,4 +1,4 @@
 function getData() {
-    return '122345';
-  }
-  
+  return '122345';
+}
+getData();
